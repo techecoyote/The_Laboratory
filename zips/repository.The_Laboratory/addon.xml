@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.The_Laboratory"
        name="  [COLORyellow]•[COLORspringgreen] The[COLORyellow] Labor[COLORblue]atory[COLORyellow] • [COLORwhite]Repository[/COLOR]"
-       version="20.6.5"
+       version="20.7.12"
        provider-name="[COLORgreen]• [COLORspringgreen]Tech [COLORpalegreen]E [COLORlime]Coyote [COLORgreen]•[/COLOR] [COLORwhite]/[/COLOR] [COLORred]Rev[/COLOR] [COLORcrimson]Run[/COLOR][COLORsalmon]ner[/COLOR]">
     <extension point="xbmc.addon.repository" name="The Laboratory Repository">
     <dir>
@@ -13,11 +13,6 @@
         <info compressed="false">https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/zips/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/zips/addons.xml.md5</checksum>
         <datadir zip="true">https://raw.githubusercontent.com/techecoyote/LooNaticsAsylum/master/zips/</datadir>
-    </dir>
-    <dir>
-        <info compressed="false">https://raw.githubusercontent.com/hydem98/addons/master/zips/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/hydem98/addons/master/zips/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/hydem98/addons/master/zips/</datadir>
     </dir>
     <dir>
         <info compressed="false">https://raw.githubusercontent.com/nostromorepo/install/master/plugins/addons.xml</info>
