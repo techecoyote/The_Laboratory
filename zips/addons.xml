@@ -113,9 +113,9 @@
   </extension>
 </addon>
 
-<addon id="repository.The_Laboratory"
+<addon id="repository.the_laboratory"
        name="  [COLORyellow]•[COLORspringgreen] The[COLORyellow] Labor[COLORblue]atory[COLORyellow] • [COLORwhite]Repository[/COLOR]"
-       version="20.8.6"
+       version="20.8.8"
        provider-name="[COLORgreen]• [COLORspringgreen]Tech [COLORpalegreen]E [COLORlime]Coyote [COLORgreen]•[/COLOR]">
     <extension point="xbmc.addon.repository" name="The Laboratory Repository">
     <dir>
